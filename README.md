@@ -22,7 +22,6 @@ SQLITE3 ---> MYSQL database
   Below is a preview of what everything looks like in its current state:
 ![Account_model](https://user-images.githubusercontent.com/94945665/175851278-5949ea90-f9b7-4ec0-bd4c-540d818f7e9e.PNG)
 ![Project_model](https://user-images.githubusercontent.com/94945665/175851280-c22485af-ce9e-416c-a632-f1ee9dd9db6f.PNG)
-![Milesprofile](https://user-images.githubusercontent.com/94945665/175851283-db5fb265-b047-4463-8867-94334578f196.jpg)
 ![Project_detail](https://user-images.githubusercontent.com/94945665/175851285-74ea769f-05a2-4644-bd1f-86635bf21fa5.PNG)
 ![Admin_portal](https://user-images.githubusercontent.com/94945665/175851289-d9fdc491-d0e0-479a-8088-a2eccf9aecca.PNG)
 ![Sprint_detail](https://user-images.githubusercontent.com/94945665/175851290-bc15087c-83ce-410d-af5a-467fc287e008.PNG)
